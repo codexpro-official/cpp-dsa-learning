@@ -1,33 +1,71 @@
-# C++ DSA Practice
+# 📚 Data Structures & Algorithms (DSA)
 
-This repository contains my Data Structures and Algorithms (DSA) practice code written in C++.
-
-I am using this repository to:
-- Learn and practice DSA concepts
-- Improve problem-solving skills
-- Keep my solutions organized
-- Track my learning progress
+This repository contains my **Data Structures and Algorithms** practice using **C++** and **Python**.  
+I am solving problems from basic to advanced level to improve my problem-solving skills and logic.
 
 ---
 
-## 📚 Topics Covered
-- Arrays
-- Strings
-- Linked List
-- Stack
-- Queue
-- Recursion
-- Searching & Sorting
-- Binary Tree
-- Binary Search Tree
-- Graphs
-- Dynamic Programming (coming soon)
+## 🚀 Languages Used
+- 🟦 C++
+- 🐍 Python
 
 ---
 
-## 🛠️ Language & Tools
-- Language: C++
-- Compiler: g++
-- Platform: Linux / VS Code
+## 📂 Folder Structure
+
+DSA/
+│
+├── C++/
+│   ├── Arrays/
+│   ├── Strings/
+│   ├── Recursion/
+│   ├── LinkedList/
+│   ├── Stack/
+│   ├── Queue/
+│   ├── Trees/
+│   ├── Graph/
+│   └── DynamicProgramming/
+│
+├── Python/
+│   ├── Arrays/
+│   ├── Strings/
+│   ├── Recursion/
+│   ├── LinkedList/
+│   ├── Stack/
+│   ├── Queue/
+│   ├── Trees/
+│   ├── Graph/
+│   └── DynamicProgramming/
+│
+└── README.md
 
 ---
+
+## 🧠 Topics Covered
+- Arrays  
+- Strings  
+- Recursion  
+- Linked List  
+- Stack  
+- Queue  
+- Trees  
+- Graph  
+- Searching & Sorting  
+- Dynamic Programming  
+
+---
+
+## 🎯 Goal
+- Build strong DSA fundamentals  
+- Improve coding logic  
+- Prepare for coding interviews  
+- Practice daily problems  
+
+---
+
+## 📌 How to Run
+
+### C++
+```bash
+g++ filename.cpp -o output
+./output
