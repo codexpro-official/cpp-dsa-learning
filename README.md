@@ -1,7 +1,7 @@
-# 📚 Data Structures & Algorithms (DSA)
+# 📚 dsa-with-py-cpp
 
-This repository contains my **Data Structures and Algorithms** practice using **C++** and **Python**.  
-I am solving problems from basic to advanced level to improve my problem-solving skills and logic.
+This repository contains my **Data Structures and Algorithms (DSA)** practice using **C++** and **Python**.  
+I am solving problems from basic to advanced level to improve my logic and problem-solving skills.
 
 ---
 
@@ -11,9 +11,9 @@ I am solving problems from basic to advanced level to improve my problem-solving
 
 ---
 
-## 📂 Folder Structure
+## 📂 Repository Structure
 
-DSA/
+dsa-with-py-cpp/
 │
 ├── C++/
 │   ├── Arrays/
@@ -55,15 +55,15 @@ DSA/
 
 ---
 
-## 🎯 Goal
+## 🎯 Goals
 - Build strong DSA fundamentals  
 - Improve coding logic  
 - Prepare for coding interviews  
-- Practice daily problems  
+- Practice problems daily  
 
 ---
 
-## 📌 How to Run
+## ▶️ How to Run Code
 
 ### C++
 ```bash
