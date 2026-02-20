@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// pow(x^n)
+
 double myPow(double x, int n) {
     double ans=1;
     if(n==0) return 1.0;
@@ -22,19 +24,23 @@ double myPow(double x, int n) {
         n/=2;
         x*=x;
     }
-
     return ans;
-
 }
 
 int main() {
+    // base
     double x;
+    // exponential/power
     int n;
+    // Input base
     cout << "x: ";
     cin >> x;
 
+    // Input power
     cout << "n: ";
     cin >> n;
+
+    // Output
     cout << myPow(x,n) << endl;
 
     return 0;
